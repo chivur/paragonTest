@@ -1,0 +1,246 @@
+Card Name	Cost	Type	Affinity	Rarity	Energy Damage	Mana Regen	Max Health	Physical Damage	Health Regen	Max Mana	Energy Pen	Physical Armor	Cooldown Reduction	Physical Pen	Energy Armor	Crit Chance	Lifesteal	Crit Bonus	Attack Speed	Harvester Placement Time	Max Movement Speed	Damage Bonus	MaxedEnergy Damage	MaxedMana Regen	MaxedMax Health	MaxedPhysical Damage	MaxedHealth Regen	MaxedMax Mana	MaxedEnergy Pen	MaxedPhysical Armor	MaxedCooldown Reduction	MaxedPhysical Pen	MaxedEnergy Armor	MaxedCrit Chance	MaxedLifesteal	MaxedCrit Bonus	MaxedAttack Speed	MaxedHarvester Placement Time	MaxedMax Movement Speed	MaxedDamage Bonus	Special0	Special1	Special2	MaxedSpecial0	MaxedSpecial1	MaxedSpecial2	0
+Elysian Diamond	3	Passive	Affinity.Order	Common	7.575758	0.3	100	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Quartzblade	3	Passive	Affinity.Order	Common	0	0.3	100	7.575758	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Celestine Diamond	3	Passive	Affinity.Order	Common	7.575758	0	0	0	1.4	75	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	75	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Silverspear	3	Passive	Affinity.Order	Common	0	0	0	7.575758	1.4	75	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	75	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Lantern of Spring	3	Passive	Affinity.Order	Common	0	0	0	0	0	0	16	22	0.025	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.025	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Genesis Torch	3	Passive	Affinity.Order	Common	0	0	0	0	0	0	0	0	0.025	16	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.025	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Golden Veil	3	Passive	Affinity.Order	Common	0	0	0	0	0	0	0	0	0	0	22	0.08	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Brightsteel Plate	3	Passive	Affinity.Order	Common	0	0	0	0	0	0	0	22	0	0	0	0.08	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Nirvana Stone	3	Passive	Affinity.Order	Common	0	0.3	0	0	1.4	0	0	0	0	0	0	0.04	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.04	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sword of the Altar	3	Passive	Affinity.Order	Common	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0
+Divine Health	3	Upgrade	Affinity.Order	Common	0	0	300	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Divine Mend	3	Upgrade	Affinity.Order	Common	0	0	0	0	4.2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Pure Mana	3	Upgrade	Affinity.Order	Common	0	0	0	0	0	225	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Pure Spark	3	Upgrade	Affinity.Order	Common	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Divine Guard	3	Upgrade	Affinity.Order	Common	0	0	0	0	0	0	0	66	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Divine Barrier	3	Upgrade	Affinity.Order	Common	0	0	0	0	0	0	0	0	0	0	66	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Righteous Wound	3	Upgrade	Affinity.Order	Common	0	0	0	0	0	0	0	0	0	0	0	0.12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Offensive Maneuvers	3	Passive	Affinity.Order	Uncommon	0	0	0	0	0	0	0	0	0	0	0	0.08	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	"+44 Physical Armor and +44 Energy Armor vs Basic Attacks"	0	0	0	0	0	0
+Divine Shield	4	Passive	Affinity.Order	Uncommon	0	0	100	0	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	When Stunned	"+66 Physical Armor and +66 Energy Armor"	0	0	0	0	0
+Stasis Gem	7	Active	Affinity.Order	Uncommon	7.575758	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Stasis 2.5s. immune to damage and status effects. Immobile unable to use abilities.	0	0	0	0	0	0
+Honor the Pure	2	Passive	Affinity.Order	Uncommon	0	0	100	0	0	75	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Grants nearby allies 4.2 Health Regen	0	0	0
+Everglass	6	Active	Affinity.Order	Uncommon	0	0	0	0	0	0	0	0	0.05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	On Ability Hit	"+70 Movespeed"	0	0	0	0	0
+Satori Cloak	5	Active	Affinity.Order	Uncommon	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	"+Pen based on 50% of my armor"	0	0	0	0	0	0
+Radiant Mantle	5	Passive	Affinity.Order	Uncommon	0	0	100	0	0	75	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Aura: +50 Energy Damage to Enemies	0	0	0	0	0	0
+Battle Mantra	5	Passive	Affinity.Order	Uncommon	0	0.3	0	7.575758	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	When over 50% mana	1.5 Mana Regen	0	0	0	0	0
+Celestial Health	4	Upgrade	Affinity.Order	Uncommon	0	0	400	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Celestial Heal	4	Upgrade	Affinity.Order	Uncommon	0	0	0	0	5.6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Perfect Mana	4	Upgrade	Affinity.Order	Uncommon	0	0	0	0	0	300	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Perfect Spark	4	Upgrade	Affinity.Order	Uncommon	0	1.2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Celestial Guard	4	Upgrade	Affinity.Order	Uncommon	0	0	0	0	0	0	0	88	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Celestial Barrier	4	Upgrade	Affinity.Order	Uncommon	0	0	0	0	0	0	0	0	0	0	88	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Zealous Wound	4	Upgrade	Affinity.Order	Uncommon	0	0	0	0	0	0	0	0	0	0	0	0.16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Vital Tap	3	Passive	Affinity.Intellect	Common	0	0	100	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	200	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Siphon Shard	3	Passive	Affinity.Intellect	Common	0	0	0	0	1.4	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0
+Quantum Casing	4	Passive	Affinity.Intellect	Common	0	0	0	0	0	0	0	22	0.025	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.025	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Etherweave Mesh	4	Passive	Affinity.Intellect	Common	0	0	0	0	0	0	0	0	0.025	0	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.025	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Muta-Gem	3	Passive	Affinity.Intellect	Common	0	0	0	7.575758	0	75	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	150	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Amp Crystal	3	Passive	Affinity.Intellect	Common	7.575758	0	0	0	0	75	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	150	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Burst-Engine	3	Passive	Affinity.Intellect	Common	0	0.3	0	7.575758	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15.15152	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Solaris Reactor	3	Passive	Affinity.Intellect	Common	7.575758	0.3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15.15152	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Steelcutter Gem	3	Passive	Affinity.Intellect	Common	0	0	0	0	0	75	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	150	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Crystal Conduit	3	Passive	Affinity.Intellect	Common	0	0	0	0	0	75	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	150	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fracturing Spike	3	Passive	Affinity.Intellect	Common	0	0.3	0	0	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	15.15152	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Magna-Lens	3	Passive	Affinity.Intellect	Common	0	0.3	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	15.15152	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Enhanced Mana	4	Upgrade	Affinity.Intellect	Common	0	0	0	0	0	300	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Enhanced Spark	4	Upgrade	Affinity.Intellect	Common	0	1.2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Focused Pierce	3	Upgrade	Affinity.Intellect	Common	0	0	0	0	0	0	0	0	0	48	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Focused Shock	3	Upgrade	Affinity.Intellect	Common	0	0	0	0	0	0	48	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Focused Drain	3	Upgrade	Affinity.Intellect	Common	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Barrier of Will	6	Active	Affinity.Intellect	Uncommon	0	0	0	0	0	75	0	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Shield to Allies.	0	0	Aura:22 Physical Armor	22 Energy Armor to Allies	0	0
+Mind Flow	3	Passive	Affinity.Intellect	Uncommon	0	0	0	0	0	75	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	When over 50% mana	"+12.5% cooldown reduction."	0	0	0	0	0
+Rally the Troops	5	Active	Affinity.Intellect	Uncommon	0	0	0	0	0	0	0	0	0.025	0	0	0	0	0	6.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Attack Speed to Allies	5s.	0	0	0	0	0
+Nanodrive	6	Active	Affinity.Intellect	Uncommon	0	0	0	0	0	75	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	"+20 MoveSpeed from each allied and enemy hero (80 Max)"	0	0	0	0	0	0
+Plasma Channel	6	Active	Affinity.Intellect	Uncommon	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	32 Energy Pen for each nearby Heroes (Max 8 Heroes)	0	0	0	0	0	0
+Infinity Stream	7	Passive	Affinity.Intellect	Uncommon	0	0.3	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	"+2.4 Mana Regen"	Scales with Current Mana Percent	0	0	0	0	0
+Megavolt Pylon	5	Active	Affinity.Intellect	Uncommon	0	0.3	0	0	0	75	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	"+10 mana for each nearby Unit"	0	0	0	0	0	0
+Bubble Tap	6	Active	Affinity.Intellect	Uncommon	0	0	0	0	0	0	0	0	0	0	22	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	"+Shield 75% of current mana"	cost 100 mana.	0	0	0	0	0
+Crucial Snare	4	Active	Affinity.Intellect	Uncommon	0	0	0	0	0	0	0	0	0.025	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	When Hit	Slow Attacker	0	0	0	0	0
+Shockwave	6	Active	Affinity.Intellect	Uncommon	0	0.6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	KnockUp Nearby Enemy Heroes	0	0	0	0	0	0
+Optimal Mana	5	Upgrade	Affinity.Intellect	Uncommon	0	0	0	0	0	375	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Optimal Spark	5	Upgrade	Affinity.Intellect	Uncommon	0	1.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Concentrated Pierce	4	Upgrade	Affinity.Intellect	Uncommon	0	0	0	0	0	0	0	0	0	64	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Concentrated Shock	4	Upgrade	Affinity.Intellect	Uncommon	0	0	0	0	0	0	64	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Concentrated Drain	4	Upgrade	Affinity.Intellect	Uncommon	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Assassin's Ward	3	Active	Affinity.Corruption	Common	0	0	0	7.575758	0	0	0	0	0	16	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Shadow Ward	0	0	0	0	0	0
+Sorceror's Ward	3	Active	Affinity.Corruption	Common	7.575758	0	0	0	0	0	16	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Shadow Ward	0	0	0	0	0	0
+Voidsteel Dagger	3	Passive	Affinity.Corruption	Common	0	0	0	7.575758	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	15.15152	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Shadow Scroll	3	Passive	Affinity.Corruption	Common	7.575758	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	15.15152	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Thirstfang	4	Passive	Affinity.Corruption	Common	0	0	0	7.575758	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0
+Curse of the Leech	4	Passive	Affinity.Corruption	Common	7.575758	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0
+Executioner's Key	2	Passive	Affinity.Corruption	Common	0	0	0	7.575758	0	0	0	0	0	0	0	0.04	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	UNIQUE Harvester Key	0	0	0	0	0	0
+Reaper's Key	2	Passive	Affinity.Corruption	Common	7.575758	0	0	0	0	0	0	0	0	0	0	0.04	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	UNIQUE Harvester Key	0	0	0	0	0	0
+Viper Bolt	3	Passive	Affinity.Corruption	Common	0	0	0	0	0	0	0	0	0	16	0	0.04	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.08	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hex of the Devastator	3	Passive	Affinity.Corruption	Common	0	0	0	0	0	0	16	0	0	0	0	0.04	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.08	0	0	0	0	0	0	0	0	0	0	0	0	0
+Deathnail	3	Passive	Affinity.Corruption	Common	0	0	0	0	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0
+Wraith Whisper	3	Passive	Affinity.Corruption	Common	0	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0
+Blackblood Virus	4	Passive	Affinity.Corruption	Common	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0
+Dire Pierce	3	Upgrade	Affinity.Corruption	Common	0	0	0	0	0	0	0	0	0	48	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dire Shock	3	Upgrade	Affinity.Corruption	Common	0	0	0	0	0	0	48	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dire Wound	3	Upgrade	Affinity.Corruption	Common	0	0	0	0	0	0	0	0	0	0	0	0.12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dire Drain	4	Upgrade	Affinity.Corruption	Common	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Drink the Spirits	5	Passive	Affinity.Corruption	Uncommon	0	0	100	0	0	75	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	<key>On Kill/Assist</> +5% of Unit health over 10s	0	0	0
+Bloodsoaked Armor	3	Active	Affinity.Corruption	Uncommon	0	0	0	0	0	0	0	22	0	0	0	0	0	0	6.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	When Hit	Bleed Attacker	0	0	0	0	0
+Seek and Destroy	3	Active	Affinity.Corruption	Uncommon	0	0	0	7.575758	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#ERROR!	#ERROR!	0	0	0	0	0
+Sirensong	6	Active	Affinity.Corruption	Uncommon	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	On Hit	Steal 35 Movespeed	0	0	0	0	0
+Cup of the Vampire	5	Passive	Affinity.Corruption	Uncommon	0	0	0	0	0	0	0	0	0	16	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#ERROR!	0	0	0	0	0	0
+Traitor's Touch	7	Passive	Affinity.Corruption	Uncommon	0	0	0	0	0	0	0	0	0.025	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	On Hit Player	Deal Physical Damage equal to 5% of the Target's Current Health	0	0
+Necroveil	6	Passive	Affinity.Corruption	Uncommon	7.575758	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	On Kill Player	Shadowplane	0	0	0	0	0
+Tainted Magick	4	Active	Affinity.Corruption	Uncommon	7.575758	0	0	0	0	0	0	0	0	0	0	0.04	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	On Ability Hit	Poison target	0	0	0	0	0
+Scourging Tails	3	Active	Affinity.Corruption	Uncommon	0	0	0	7.575758	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	On Ability Hit	80 Physical Armor Shred	0	0	0	0	0
+Backstabber	3	Passive	Affinity.Corruption	Uncommon	0	0	0	0	0	0	0	0	0	0	0	0.04	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#ERROR!	0	0	0	0	0	0
+Dreadfeast Relic	5	Active	Affinity.Corruption	Uncommon	0	0	0	0	0	0	0	0	0	0	0	0.04	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	On Ability Hit	#ERROR!	gives <attr id="Lfstl"/> all attackers of the effected target	0	0	0	0
+Sinister Pierce	4	Upgrade	Affinity.Corruption	Uncommon	0	0	0	0	0	0	0	0	0	64	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sinister Shock	4	Upgrade	Affinity.Corruption	Uncommon	30.30303	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sinister Wound	4	Upgrade	Affinity.Corruption	Uncommon	0	0	0	0	0	0	0	0	0	0	0	0.16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sinister Drain	5	Upgrade	Affinity.Corruption	Uncommon	0	0	0	0	0	0	0	0	0	0	0	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Flashfire Piston	2	Passive	Affinity.Fury	Common	0	0	0	7.575758	0	0	0	0	0	0	0	0	0	0	6.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6.5	0	0	0	0	0	0	0	0	0	0
+Madstone Gem	2	Passive	Affinity.Fury	Common	7.575758	0	0	0	0	0	0	0	0	0	0	0	0	0	6.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6.5	0	0	0	0	0	0	0	0	0	0
+Rust-Breaker	3	Passive	Affinity.Fury	Common	0	0	0	7.575758	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	7.575758	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Meltdown	3	Passive	Affinity.Fury	Common	15.15152	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	7.575758	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Impact Hammer	3	Passive	Affinity.Fury	Common	0	0	0	15.15152	0	0	0	0	0	0	0	0.04	0	0	0	0	0	0	0	0	0	7.575758	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Micro-Nuke	3	Passive	Affinity.Fury	Common	15.15152	0	0	0	0	0	0	0	0	0	0	0.04	0	0	0	0	0	0	7.575758	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Brutal Kinetic	3	Upgrade	Affinity.Fury	Common	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fierce Chrono	3	Upgrade	Affinity.Fury	Common	0	0	0	0	0	0	0	0	0.075	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Berzerker Drive	3	Passive	Affinity.Fury	Common	0	0	0	15.15152	0	0	0	0	0.025	0	0	0	0	0	6.5	0	0	0	0	0	0	0	0	0	0	0	0.025	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Burnblood Powder	3	Passive	Affinity.Fury	Common	15.15152	0	0	0	0	0	0	0	0.025	0	0	0	0	0	6.5	0	0	0	0	0	0	0	0	0	0	0	0.025	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Rageheart Engine	2	Passive	Affinity.Fury	Common	0	0	0	0	0	0	0	0	0.025	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.025	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hatespitter	2	Passive	Affinity.Fury	Common	0	0	0	0	0	0	16	0	0.025	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.025	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Brand of the Ironeater	3	Passive	Affinity.Fury	Common	0	0	0	0	0	0	0	0	0	0	0	0.04	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0
+Hunger-Maul	3	Passive	Affinity.Fury	Common	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0
+Redeye Nitro	2	Passive	Affinity.Fury	Common	0	0	0	0	0	0	0	0	0	0	0	0.04	0	0	6.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6.5	0	0	0	0	0	0	0	0	0	0
+Chrono-vore	3	Passive	Affinity.Fury	Common	0	0	0	0	0	0	0	0	0.05	0	0	0	0	0	6.5	0	0	0	0	0	0	0	0	0	0	0	0.025	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Blast Harness	3	Passive	Affinity.Fury	Common	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0
+Injured Rage	4	Passive	Affinity.Fury	Uncommon	0	0	0	15.15152	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	When <status id="crtwnd"/>	#ERROR!	0	0
+Merciless	3	Passive	Affinity.Fury	Uncommon	0	0	0	0	0	0	0	0	0	0	0	0.04	0	0	6.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#ERROR!	0	0	0	0	0	0
+Reverberate	4	Active	Affinity.Fury	Uncommon	0	0	0	15.15152	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#ERROR!	0	0	0	0	0	0
+Incessant Onslaught	3	Passive	Affinity.Fury	Uncommon	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	On Hit Player	#ERROR!	0	0	0	0	0
+Heartshot	5	Passive	Affinity.Fury	Uncommon	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	On Kill Player	#ERROR!	0	0	0	0	0
+Firepiercer	5	Active	Affinity.Fury	Uncommon	0	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	160 <attr id="EnPen"/>	0	0	0	0	0	0
+Bone Dice	3	Passive	Affinity.Fury	Uncommon	0	0	0	0	0	0	0	0	0	0	0	0.04	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	When <key>Critically Wounded</> 20% <attr id="CritCh"/>	0	0	0	0	0	0
+Bloodrite Brand	6	Passive	Affinity.Fury	Uncommon	0	0	0	0	0	0	0	0	0	0	0	0.04	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	<key>On Kill Player</>	<key>When</> Critically Wounded	gain +40% of Unit health over 10s	0	0	0	0
+Victory Torch	4	Passive	Affinity.Fury	Uncommon	7.575758	0	0	0	0	0	0	0	0.025	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	On Hit	When Critically Wounded	Burn targets	0
+Armavore	3	Passive	Affinity.Fury	Uncommon	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	<key>On Kill</>	#ERROR!	0	0
+Rocket Spike	5	Active	Affinity.Fury	Uncommon	0	0	0	0	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	160 <attr id="PhysPen"/>	0	0	0	0	0	0
+Power Chord	3	Passive	Affinity.Fury	Uncommon	7.575758	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	<key>Aura</> Bonus <attr id="EnDmg"/> to Allied Minions	0	0	0	0	0	0
+Killdozer Horn	3	Passive	Affinity.Fury	Uncommon	0	0	0	7.575758	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	<key>Aura</> Bonus <attr id="PhysDmg"/> to Allied Minions	0	0	0	0	0	0
+Vicious Kinetic	3	Upgrade	Affinity.Fury	Uncommon	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Raging Chrono	4	Upgrade	Affinity.Fury	Uncommon	0	0	0	0	0	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Stonetooth Heart	4	Passive	Affinity.Growth	Common	0	0	100	0	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	300	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Vineheart	4	Passive	Affinity.Growth	Common	0	0	100	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	300	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Swiftcreek Heart	4	Passive	Affinity.Growth	Common	0	0	100	0	0	0	0	0	0	0	0	0	0	0	6.5	0	0	0	0	0	300	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Heart of the Apex	3	Passive	Affinity.Growth	Common	0	0	100	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0
+Spiked Boneplate	3	Passive	Affinity.Growth	Common	0	0	0	7.575758	0	0	0	22	0	0	0	0	0	0	0	0	0	0	0	0	0	15.15152	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Thorned Greenweave	3	Passive	Affinity.Growth	Common	0	0	0	7.575758	0	0	0	0	0	0	22	0	0	0	0	0	0	0	0	0	0	15.15152	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Venom Shell	3	Passive	Affinity.Growth	Common	7.575758	0	0	0	0	0	0	22	0	0	0	0	0	0	0	0	0	0	15.15152	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Snakevine Mesh	3	Passive	Affinity.Growth	Common	7.575758	0	0	0	0	0	0	0	0	0	22	0	0	0	0	0	0	0	15.15152	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Seeds of the Flood	3	Passive	Affinity.Growth	Common	0	0	0	0	1.4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0
+Reptilian Claw	3	Passive	Affinity.Growth	Common	0	0	0	0	1.4	0	0	0	0	0	0	0.04	0	0	0	0	0	0	0	0	0	0	2.8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Savage Remedy	3	Passive	Affinity.Growth	Common	0	0	0	0	1.4	75	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2.8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Gift of the Rains	3	Passive	Affinity.Growth	Common	0	0.3	0	0	1.4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2.8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Feral Stone	3	Passive	Affinity.Growth	Common	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0
+Beta Health	4	Upgrade	Affinity.Growth	Common	0	0	400	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Beta Heal	4	Upgrade	Affinity.Growth	Common	0	0	0	0	5.6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Beta Guard	3	Upgrade	Affinity.Growth	Common	0	0	0	0	0	0	0	66	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Beta Barrier	3	Upgrade	Affinity.Growth	Common	0	0	0	0	0	0	0	0	0	0	66	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Silent Indignation	4	Active	Affinity.Growth	Uncommon	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#ERROR!	0	0	0	0	0	0
+Hunter's Guile	4	Active	Affinity.Growth	Uncommon	0	0	100	7.575758	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Cleanse	0	0	0	0	0	0
+Charging Brute	5	Passive	Affinity.Growth	Uncommon	0	0	0	7.575758	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	On Kill +5 Movespeed	0	0	0	0	0	0
+Overflowing Gifts	3	Active	Affinity.Growth	Uncommon	0	0.3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14 HPS for 14s To Allies	0	0	0	0	0	0
+Nature's Muse	7	Active	Affinity.Growth	Uncommon	0	0	100	0	0	75	0	0	0	0	0	0	0	0	0	0	0	0	0	0.3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-5s to Cooldowns to Allies	0	0	0
+Mending Bloom	3	Active	Affinity.Growth	Uncommon	0	0	0	0	1.4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5.3 <attr id="MPReg"/> for 14s To Allies	0	0	0	0	0	0
+Scorpion Plate	6	Active	Affinity.Growth	Uncommon	0	0	0	0	0	0	16	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	<key>On Hit</>	32 Energy Armor Shred	0	0	0	0	0
+Clearheart	5	Passive	Affinity.Growth	Uncommon	0	0.3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#ERROR!	0	0	0	0	0	0
+Madspore Sash	5	Passive	Affinity.Growth	Uncommon	0	0	0	0	1.4	0	0	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Aura: +50 Physical Damage to Enemies	0	0	0	0	0	0
+Splinterbark Vest	6	Active	Affinity.Growth	Uncommon	0	0	0	0	0	0	0	0	0	16	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	<key>On Hit</>	32 Physical Armor Shred	0	0	0	0	0
+Chieftain's Crown	5	Passive	Affinity.Growth	Uncommon	0	0	200	0	1.4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	<key>Aura</> 4.2 <attr id="HPReg"/> to Allied Minions	0	0	0	0	0	0
+Alpha Health	5	Upgrade	Affinity.Growth	Uncommon	0	0	500	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alpha Heal	5	Upgrade	Affinity.Growth	Uncommon	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alpha Guard	5	Upgrade	Affinity.Growth	Uncommon	0	0	0	0	0	0	0	110	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alpha Barrier	5	Upgrade	Affinity.Growth	Uncommon	0	0	0	0	0	0	0	0	0	0	110	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Minor Strike	1	Upgrade	Affinity.Universal	Common	0	0	0	7.575758	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Strike	2	Upgrade	Affinity.Universal	Common	0	0	0	15.15152	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Minor Cast	1	Upgrade	Affinity.Universal	Common	7.575758	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cast	2	Upgrade	Affinity.Universal	Common	15.15152	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Minor Kinetic	1	Upgrade	Affinity.Universal	Common	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kinetic	2	Upgrade	Affinity.Universal	Common	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Minor Guard	1	Upgrade	Affinity.Universal	Common	0	0	0	0	0	0	0	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Guard	2	Upgrade	Affinity.Universal	Common	0	0	0	0	0	0	0	44	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Minor Barrier	1	Upgrade	Affinity.Universal	Common	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Barrier	2	Upgrade	Affinity.Universal	Common	0	0	0	0	0	0	0	0	0	0	44	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Lesser Health	1	Upgrade	Affinity.Universal	Common	0	0	100	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Health	2	Upgrade	Affinity.Universal	Common	0	0	200	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Basic Mana	1	Upgrade	Affinity.Universal	Common	0	0	0	0	0	75	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mana	2	Upgrade	Affinity.Universal	Common	0	0	0	0	0	150	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Basic Chrono	1	Upgrade	Affinity.Universal	Common	0	0	0	0	0	0	0	0	0.025	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chrono	2	Upgrade	Affinity.Universal	Common	0	0	0	0	0	0	0	0	0.05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Windcarver Blade	3	Passive	Affinity.Universal	Common	0	0	0	7.575758	0	0	0	0	0	0	0	0	0	0	6.5	0	0	0	0	0	0	7.575758	0	0	0	0	0	0	0	0	0	0	6.5	0	0	0	0	0	0	0	0	0	0
+Whirling Wand	3	Passive	Affinity.Universal	Common	7.575758	0	0	0	0	0	0	0	0	0	0	0	0	0	6.5	0	0	0	7.575758	0	0	0	0	0	0	0	0	0	0	0	0	0	6.5	0	0	0	0	0	0	0	0	0	0
+Spear of the Rifthunter	3	Passive	Affinity.Universal	Common	0	0	0	7.575758	0	0	0	0	0	0	0	0.04	0	0	0	0	0	0	0	0	0	7.575758	0	0	0	0	0	0	0	0.04	0	0	0	0	0	0	0	0	0	0	0	0	0
+Riftmagus Scepter	3	Passive	Affinity.Universal	Common	7.575758	0	0	0	0	0	0	0	0	0	0	0.04	0	0	0	0	0	0	7.575758	0	0	0	0	0	0	0	0	0	0	0.04	0	0	0	0	0	0	0	0	0	0	0	0	0
+Amulet of the Veteran	3	Passive	Affinity.Universal	Common	0	0	100	7.575758	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	200	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Eldermage Amulet	3	Passive	Affinity.Universal	Common	7.575758	0	100	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	200	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Blade of Agora	3	Passive	Affinity.Universal	Common	0	0	0	7.575758	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0
+Agoran Scepter	3	Passive	Affinity.Universal	Common	7.575758	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0
+Pendulum of Lords	3	Passive	Affinity.Universal	Common	0	0	100	0	0	75	0	0	0.025	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.025	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chrono-Mancer Disc	3	Passive	Affinity.Universal	Common	7.575758	0	0	0	0	75	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chronospike	3	Passive	Affinity.Universal	Common	0	0	0	7.575758	0	75	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Adamant Edge	3	Passive	Affinity.Universal	Common	0	0	100	7.575758	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15.15152	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Staff of Adamant	3	Passive	Affinity.Universal	Common	7.575758	0	100	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15.15152	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fountain Spike	3	Passive	Affinity.Universal	Common	0	0	0	7.575758	0	75	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15.15152	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wellspring Staff	3	Passive	Affinity.Universal	Common	7.575758	0	0	0	0	75	0	0	0	0	0	0	0	0	0	0	0	0	15.15152	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Lord's Key	3	Passive	Affinity.Universal	Common	0	0	100	0	0	75	0	0	0.025	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	UNIQUE Harvester Key	0	0	0	0	0	0
+Circlet of Health	3	Passive	Affinity.Universal	Common	0	0	0	0	0	75	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Grants nearby allies 4.2 Health Regen	0	0	0	0	0	0
+Circlet of Mana	3	Passive	Affinity.Universal	Common	0	0	100	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Grants nearby allies 0.9 Mana Regen	0	0	0	0	0	0
+Lord's Ward	3	Active	Affinity.Universal	Common	0	0	100	0	0	75	0	0	0.025	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Shadow Ward	0	0	0	0	0	0
+Tempered Plate	3	Passive	Affinity.Universal	Common	0	0	100	0	0	0	0	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	44	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tuned Barrier	3	Passive	Affinity.Universal	Common	0	0	100	0	0	0	0	0	0	0	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	44	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Magus' Key	3	Passive	Affinity.Universal	Common	7.575758	0	0	0	0	75	0	0	0	0	0	0	0	0	0	3	0	0	7.575758	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	UNIQUE Harvester Key	0	0	0	0	0	0
+Brawler's Key	3	Passive	Affinity.Universal	Common	0	0	0	7.575758	0	75	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	7.575758	0	0	0	0	0	0	0	0	0	0	0	0	0	0	UNIQUE Harvester Key	0	0	0	0	0	0
+Magus' Ward	3	Active	Affinity.Universal	Common	7.575758	0	0	0	0	75	0	0	0	0	0	0	0	0	0	0	0	0	7.575758	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Shadow Ward	0	0	0	0	0	0
+Brawler's Ward	3	Active	Affinity.Universal	Common	0	0	0	7.575758	0	75	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7.575758	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Shadow Ward	0	0	0	0	0	0
+Sage's Key	3	Passive	Affinity.Universal	Common	7.575758	0	100	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	7.575758	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	UNIQUE Harvester Key	0	0	0	0	0	0
+Guardian's Key	3	Passive	Affinity.Universal	Common	0	0	100	7.575758	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	7.575758	0	0	0	0	0	0	0	0	0	0	0	0	0	0	UNIQUE Harvester Key	0	0	0	0	0	0
+Sage's Ward	3	Active	Affinity.Universal	Common	7.575758	0	100	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7.575758	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Shadow Ward	0	0	0	0	0	0
+Guardian's Ward	3	Active	Affinity.Universal	Common	0	0	100	7.575758	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7.575758	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Shadow Ward	0	0	0	0	0	0
+Minor Wound	1	Upgrade	Affinity.Universal	Common	0	0	0	0	0	0	0	0	0	0	0	0.04	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wound	2	Upgrade	Affinity.Universal	Common	0	0	0	0	0	0	0	0	0	0	0	0.08	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Lesser Heal	1	Upgrade	Affinity.Universal	Common	0	0	0	0	1.4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Heal	2	Upgrade	Affinity.Universal	Common	0	0	0	0	2.8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Basic Spark	1	Upgrade	Affinity.Universal	Common	0	0.3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Spark	2	Upgrade	Affinity.Universal	Common	0	0.6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Minor Pierce	1	Upgrade	Affinity.Universal	Common	0	0	0	0	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Pierce	2	Upgrade	Affinity.Universal	Common	0	0	0	0	0	0	0	0	0	32	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Minor Shock	1	Upgrade	Affinity.Universal	Common	0	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Shock	2	Upgrade	Affinity.Universal	Common	0	0	0	0	0	0	32	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Lesser Drain	1	Upgrade	Affinity.Universal	Common	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Drain	2	Upgrade	Affinity.Universal	Common	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wings of the Valkyrie	2	Passive	Affinity.Universal	Common	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	70	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+The Warlord	0	Prime	Affinity.Universal	Starter	0	0	0	75.75758	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#ERROR!	0	0	0	0	0	0
+The Archmagus	0	Prime	Affinity.Universal	Starter	75.75758	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#ERROR!	0	0	0	0	0	0
+The Centurion	0	Prime	Affinity.Universal	Starter	0	0	1000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#ERROR!	0	0	0	0	0	0
+Harvester's Key	1	Passive	Affinity.Universal	Starter	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Harvester Key	Recharges at Base.	0	0	0	0	0
+Scout's Ward	1	Active	Affinity.Universal	Starter	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Ward	0	0	0	0	0	0
+Health Potion	1	Active	Affinity.Universal	Starter	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#ERROR!	0	0	0	0	0	0
+Mana Potion	1	Active	Affinity.Universal	Starter	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	#ERROR!	0	0	0	0	0	0
+Wings of the Messenger	1	Passive	Affinity.Universal	Common	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	35	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Portal Stone	7	Active	Affinity.Universal	Starter	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Teleport to allied structure	0	0	0	0	0	0
+Blink Charm	5	Active	Affinity.Universal	Starter	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Teleport forward	0	0	0	0	0	0
+Major Strike	3	Upgrade	Affinity.Universal	Uncommon	0	0	0	22.72727	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Major Cast	3	Upgrade	Affinity.Universal	Uncommon	22.72727	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Major Kinetic	3	Upgrade	Affinity.Universal	Uncommon	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Greater Guard	3	Upgrade	Affinity.Universal	Uncommon	0	0	0	0	0	0	0	66	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Greater Barrier	3	Upgrade	Affinity.Universal	Uncommon	0	0	0	0	0	0	0	0	0	0	66	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Greater Health	3	Upgrade	Affinity.Universal	Uncommon	0	0	300	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Advanced Mana	3	Upgrade	Affinity.Universal	Uncommon	0	0	0	0	0	225	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Advanced Chrono	3	Upgrade	Affinity.Universal	Uncommon	0	0	0	0	0	0	0	0	0.075	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Major Wound	3	Upgrade	Affinity.Universal	Uncommon	0	0	0	0	0	0	0	0	0	0	0	0.12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Greater Heal	3	Upgrade	Affinity.Universal	Uncommon	0	0	0	0	4.2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Advanced Spark	3	Upgrade	Affinity.Universal	Uncommon	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Major Pierce	3	Upgrade	Affinity.Universal	Uncommon	0	0	0	0	0	0	0	0	0	48	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Major Shock	3	Upgrade	Affinity.Universal	Uncommon	0	0	0	0	0	0	48	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Greater Drain	3	Upgrade	Affinity.Universal	Uncommon	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bounty Stalker	3	Passive	Affinity.Universal	Uncommon	7.575758	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0
+Ancestral Boots	2	Passive	Affinity.Universal	Common	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ancestral Perseverance	1	Upgrade	Affinity.Universal	Common	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

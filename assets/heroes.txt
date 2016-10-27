@@ -1,0 +1,13 @@
+Dekker	Support
+FengMao	Jungler/Bruiser
+Gadget	Controll Mage
+Gideon	Carry Mage
+Grux	Bruiser
+Howitzer	Mage
+Kallari	Assasin
+Murdock	Ranger
+Muriel	Support
+Rampage	Tank/Bruiser
+Sparrow	Ranger
+Steel	Tank
+TwinBlast	Ranger

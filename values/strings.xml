@@ -1,0 +1,223 @@
+<resources>
+    <string name="app_name">ParagonTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_hero_selected">HeroSelected</string>
+
+
+    <string name="feng_mao_passive">Feng Mao builds stacks of offensive and defensive power through the use of his abilities. Blocking with Conversion Shield or using Reaping Dash ability will add offensive stacks for Sweep damage. Dealing damage with Sweep or using Hamstring ability will add defensive stacks for Conversion Shield. Stacks only last for a short period of time.</string>
+    <string name="feng_mao_lmb">Feng Mao makes a wide melee sweep with his blade. Damage increases based on the number of offensive stacks Feng Mao has. Feng Mao generates a defensive stack for each hit he lands with Sweep.</string>
+    <string name="feng_mao_rmb">Feng Mao generates a shield that blocks a portion incoming damage. This shield strength is increased based on the number of defensive stacks Feng Mao has. Feng Mao generates an offensive stack for each hit he takes while Conversion Shield is active.</string>
+    <string name="feng_mao_q">Feng Mao throws out an image of himself, and upon colliding with an enemy hero or reaching max distance he will teleport to the image. The image will deal damage to all minions it passes through and any heroes it collides with. Feng Mao will also be granted an offensive stack upon use.</string>
+    <string name="feng_mao_e">Feng Mao whirls his blade in a circle around him, slowing and dealing damage to enemies within range. Feng Mao generates a defensive stack upon use.</string>
+    <string name="feng_mao_r">Feng Mao leaps into the air and slams his blade on the ground dealing damage in a line in front of him. Feng Mao generates a protective shield when using the ability.</string>
+    <string name="feng_mao_name_passive">Passive:THE BALANCE</string>
+    <string name="feng_mao_name_lmb">LMB:SWEEP</string>
+    <string name="feng_mao_name_rmb">RMB:CONVERSION SHIELD</string>
+    <string name="feng_mao_name_q">Q:REAPING DASH</string>
+    <string name="feng_mao_name_e">E:HAMSTRING</string>
+    <string name="feng_mao_name_r">R:EARTH SHATTER</string>
+
+
+    <string name="howitzer_passive">If Howitzer gets a kill or assist, his active cooldowns are reduced.</string>
+    <string name="howitzer_lmb">Howitzer fires a medium damage explosive projectile.</string>
+    <string name="howitzer_rmb">Howitzer fires 3 grenades in a line that explode after a short time or if any enemies enter their proximity. Any enemies hit are slowed.</string>
+    <string name="howitzer_q">Howitzer fires a long range Rocket at a target location. On impact, the rocket explodes and deals damage in a small radius.</string>
+    <string name="howitzer_e">Howitzer throws a Land Mine to a target location. After a short delay or after re-triggering, the mine explodes dealing damage and knocking nearby enemies away. Howitzer will also be affected by the knockback if he is nearby.</string>
+    <string name="howitzer_r">Howitzer launches into the air and Makes it Rain missiles in a target area. The missiles hit repeatedly over a short duration with the last missile dealing extra damage.</string>
+    <string name="howitzer_name_passive">Passive:FAST RELOAD</string>
+    <string name="howitzer_name_lmb">LMB:CANNON</string>
+    <string name="howitzer_name_rmb">RMB:SLOW GRENADES</string>
+    <string name="howitzer_name_q">Q:R2000 MISSILE</string>
+    <string name="howitzer_name_e">E:LAND MINE</string>
+    <string name="howitzer_name_r">R:MAKE IT RAIN</string>
+
+
+
+    <string name="dekker_passive">When Dekker uses an ability, she shares some of the mana used to cast the ability with nearby allies.</string>
+    <string name="dekker_lmb">Dekker fires a medium damage energy blast from her staff.</string>
+    <string name="dekker_rmb">Dekker ignites her rocket boots launching her into the air and giving nearby allies a quick movement speed boost.</string>
+    <string name="dekker_q">Dekker throws out a projectile that bounces along the ground, damaging any minions it passes through. The bomb will explode upon reaching max range or directly colliding with an object, terrain or enemy hero. If the projectile hits an enemy Hero, they are stunned based on how far the projectile traveled before hitting.</string>
+    <string name="dekker_e">Dekker creates a bubble at a target location. Enemies within the bubble are slowed. After a time the bubble will pop, dealing more damage the longer it is active. The bubble can be detonated early by re-activating the ability</string>
+    <string name="dekker_r">Dekker erects a Containment Fence at a target location, trapping both allies and enemies inside. Allies can shoot through the fence but enemies cannot. Allies within the fence are granted a shield.</string>
+    <string name="dekker_name_passive">Passive:MANA SHARE</string>
+    <string name="dekker_name_lmb">LMB:ENERGY ORB</string>
+    <string name="dekker_name_rmb">RMB:ROCKET BOOTS</string>
+    <string name="dekker_name_q">Q:STASIS BOMB</string>
+    <string name="dekker_name_e">E:SLOW BUBBLE</string>
+    <string name="dekker_name_r">R:CONTAINMENT FENCE</string>
+
+
+
+
+    <string name="murdock_passive">If Murdock does not take damage for a set amount of time, he receives a boost to his normal run speed.</string>
+    <string name="murdock_lmb">Murdock fires a high damage attack from his blaster.</string>
+    <string name="murdock_rmb">Murdock projects an energy shield from his arm, mitigating damage in front of him. While the shield is out, basic attack will fire the shield forward and knock back the first enemy.</string>
+    <string name="murdock_q">Murdock fires a shotgun shell from the pistol on his back, dealing damage in a cone. Enemies hit have their energy resistance reduced for a short time.</string>
+    <string name="murdock_e">Murdock throws out a trap to a target location. If an enemy steps on the trap, they take damage and are slowed for a short duration.</string>
+    <string name="murdock_r">Murdock takes a knee and zooms in on a distant target. Upon confirming, Murdock fires a long range laser from his gun that passes through any enemy, object or terrain.</string>
+    <string name="murdock_name_passive">Passive:HOT PURSUIT</string>
+    <string name="murdock_name_lmb">LMB:PLASMA BOLT</string>
+    <string name="murdock_name_rmb">RMB:SHIELDING SHOT</string>
+    <string name="murdock_name_q">Q:BUCKSHOT</string>
+    <string name="murdock_name_e">E:STATIC LOCK</string>
+    <string name="murdock_name_r">R:DEVASTATING BLAST</string>
+
+
+
+    <string name="gadget_passive">Gadget deals increased damage to minions.</string>
+    <string name="gadget_lmb">Gadget fires a medium damage plasma blast from her gauntlet.</string>
+    <string name="gadget_rmb">Gadget fires a bot that moves slowly in a straight line, granting vision within a radius. Reactivating the ability halts the bot and begins damaging and slowing enemies beneath. If the bot collides with an enemy Hero, it will auto trigger.</string>
+    <string name="gadget_q">Gadget fires a Sticky Mine to a target location. After a short time, the mine will activate, sticking to anyone within the radius. A few seconds after activating, the mine explodes.</string>
+    <string name="gadget_e">Gadget fires out a Speed Gate. Upon deploying, allies that pass through the gate will gain a large burst of movement speed. Enemies that pass through it will take damage.</string>
+    <string name="gadget_r">Gadget places her Tesla Dome over a target location. After a short delay the Dome activates, dealing damage over the course of a few seconds.</string>
+    <string name="gadget_name_passive">Passive:HAYWIRE</string>
+    <string name="gadget_name_lmb">LMB:PLASMA BLAST</string>
+    <string name="gadget_name_rmb">RMB:SEEK and DESTROY</string>
+    <string name="gadget_name_q">Q:STICKY MINE</string>
+    <string name="gadget_name_e">E:SPEED GATE</string>
+    <string name="gadget_name_r">R:TESLA DOME</string>
+
+
+
+
+    <string name="steel_passive">Steel is resistant to crowd control effects, reducing their duration.</string>
+    <string name="steel_lmb">Steel attacks with a medium damage melee punch.</string>
+    <string name="steel_rmb">Steel pulls out his shield in front of him, blocking a percentage of incoming damage.</string>
+    <string name="steel_q">Steel charges forward, damaging all enemies he hits. Enemy heroes hit will also be knocked back, while enemy minions hit will be knocked up.</string>
+    <string name="steel_e">Steel creates an energy wall at a target location. Steel and allies are shielded and enemies are slowed as they pass through. Enemy projectiles are blocked by the wall.</string>
+    <string name="steel_r">Steel launches into the air, slamming down on a targeted area with his shield, knocking up and stunning enemies.</string>
+    <string name="steel_name_passive">Passive:UNSTOPPABLE FORCE</string>
+    <string name="steel_name_lmb">LMB:PUNCH</string>
+    <string name="steel_name_rmb">RMB:SHIELD BLOCk</string>
+    <string name="steel_name_q">Q:CHARGE</string>
+    <string name="steel_name_e">E:FORCE SHIELD</string>
+    <string name="steel_name_r">R:SHIELD SLAM</string>
+
+
+
+    <string name="rampage_passive">Rampage gains Health Regen based on the percentage of his missing health. All healing effects are increased when in the Jungle.</string>
+    <string name="rampage_lmb">Rampage swipes his claws in a strong melee attack.</string>
+    <string name="rampage_rmb">Rampage leaps forward in an arc and deals damage when he lands. Critically wounded targets are dealt bonus damage. Pounce range increases when Roar or Enraged are active. Rampage will slam to the ground if he Swipes while in mid-air.</string>
+    <string name="rampage_q">Rampage tears a boulder out of the ground and heaves it at enemies, stunning enemy Heroes and dealing damage.</string>
+    <string name="rampage_e">Rampage lets out a beastial howl that increases his movement speed, and grants a movement speed boost to nearby allies. While active, Rampage can Pounce farther.</string>
+    <string name="rampage_r">Rampage gets Enraged, grows in size, gains health, and gains additional damage based on missing health. While Enraged, Rampage can only use Swipe and Pounce, which are reset when this ability is activated.</string>
+    <string name="rampage_name_passive">Passive:KING OF THE JUNGLE</string>
+    <string name="rampage_name_lmb">LMB:SWIPE</string>
+    <string name="rampage_name_rmb">RMB:POUNCE</string>
+    <string name="rampage_name_q">Q:BOULDER THROW</string>
+    <string name="rampage_name_e">E:FERAL ROAR</string>
+    <string name="rampage_name_r">R:ENRAGED</string>
+
+
+
+
+    <string name="muriel_passive">Muriel grants bonus health regen to nearby shielded allies.</string>
+    <string name="muriel_lmb">Muriel fires a medium damage energy orb from her hand.</string>
+    <string name="muriel_rmb">Muriel shoots a large orb onto the battlefield. If Muriel or any ally touches the orb, they are granted a shield and a burst of movespeed.</string>
+    <string name="muriel_q">Muriel fires a ball of energy that damages any minions it passes through, and slows and damages the first enemy hero it hits.</string>
+    <string name="muriel_e">Muriel summons a large energy bubble that applies a shield to friendly heroes within. At the end of the ability, the bubble collapses, damaging enemy heroes in it.</string>
+    <string name="muriel_r">Muriel targets an ally anywhere on the map. After a short delay, she grants the ally a shield and flies across the map to their location. Once Muriel arrives, nearby ally heroes gain a shield and enemy heroes get knocked up into the air.</string>
+    <string name="muriel_name_passive">Passive:RESTORATION</string>
+    <string name="muriel_name_lmb">LMB:ORB</string>
+    <string name="muriel_name_rmb">RMB:ALACRITY</string>
+    <string name="muriel_name_q">Q:SERENITY</string>
+    <string name="muriel_name_e">E:CONSECRATED GROUND</string>
+    <string name="muriel_name_r">R:REVERSAL OF FORTUNE</string>
+
+
+
+
+    <string name="gideon_passive">Gideon has bonus Energy Penetration.</string>
+    <string name="gideon_lmb">Gideon throws a medium damage blast of dark energy.</string>
+    <string name="gideon_rmb">Gideon fires a projectile that tethers him to an enemy Hero. While tethered, the enemy is slowed and takes damage over time. The tether breaks early if enemy gets out of range or breaks line of sight.</string>
+    <string name="gideon_q">Gideon opens a Cosmic Rift over the battlefield, dropping meteors at the target location.</string>
+    <string name="gideon_e">Gideon opens a portal at a targeted area, allowing him to quickly teleport. Friendly heroes can follow him through the portal by jumping into it.</string>
+    <string name="gideon_r">Gideon starts channeling and summoning a black hole from his rift device which creates a swirling vortex in a radius around him. Enemies within the radius are dragged inward and take damage over time. Gideon receives a shield and is immune to crowd control after casting.</string>
+    <string name="gideon_name_passive">Passive:DARK INFUSION</string>
+    <string name="gideon_name_lmb">LMB:PORTAL BLAST</string>
+    <string name="gideon_name_rmb">RMB:DARK TETHER</string>
+    <string name="gideon_name_q">Q;COSMIC RIFT</string>
+    <string name="gideon_name_e">E:TORN SPACE</string>
+    <string name="gideon_name_r">R:BLACK HOLE</string>
+
+
+
+
+    <string name="kallari_passive">Kallari and her teammates gain vision of any enemy Hero that is Critically Wounded (below 25% of their Max Health).</string>
+    <string name="kallari_lmb">Kallari slashes with her daggers in a quick melee attack.</string>
+    <string name="kallari_rmb">Kallari flips once in the air. The ability can be reactivated before landing to do an additional flip.</string>
+    <string name="kallari_q">Kallari enters the Shadow Plane becoming invisible with increased movement speed. Nearby enemies will hear a whisper when a stealthed Kallari is nearby. Getting a kill resets the cooldown on this ability by a flat amount of seconds.</string>
+    <string name="kallari_e">Kallari throws a dagger at her target dealing damage and applying a bleed that does damage over time.</string>
+    <string name="kallari_r">Kallari dashes forward and deals massive damage to any enemies she passes through.</string>
+    <string name="kallari_name_passive">Passive:MARKED FOR DEATH</string>
+    <string name="kallari_name_lmb">LMB:SLASH</string>
+    <string name="kallari_name_rmb">RMB:BACKFLIP</string>
+    <string name="kallari_name_q">Q:SHADOW WALK</string>
+    <string name="kallari_name_e">E:BLOOD DAGGER</string>
+    <string name="kallari_name_r">R:DEATH SENTENCE</string>
+
+
+
+
+    <string name="sparrow_passive">Sparrow deals stacking damage with consecutive damage to the same target.</string>
+    <string name="sparrow_lmb">Sparrow fires a high damage arrow.</string>
+    <string name="sparrow_rmb">While holding the ability, Sparrow slows her movement and charges a powerful arrow. When the ability is released, Sparrow looses an arrow that pierces all enemies. The damage is increased the longer the ability is held.</string>
+    <string name="sparrow_q">Sparrow rains arrows down at the target location for several seconds, dealing damage to enemies and applying her Relentless stacks.</string>
+    <string name="sparrow_e">Sparrow focuses, allowing her to fire arrows very quickly for the next 3 shots.</string>
+    <string name="sparrow_r">Sparrow glows with a magical light, splitting her Bow Shot into a cone of 3 arrows. These arrows pierce through units and apply basic attack card effects.</string>
+    <string name="sparrow_name_passive">Passive:RELENTLESS</string>
+    <string name="sparrow_name_lmb">LMB:BOW SHOT</string>
+    <string name="sparrow_name_rmb">RMB:PIERCING SHOT</string>
+    <string name="sparrow_name_q">Q:HALL OF ARROWS</string>
+    <string name="sparrow_name_e">E:INVIGORATE</string>
+    <string name="sparrow_name_r">R:INNER FIRE</string>
+
+
+
+
+    <string name="grux_passive">Grux permanently gains a small amount of health whenever he kills a unit.</string>
+    <string name="grux_lmb">Grux swings his hammer blades in a chopping melee attack.</string>
+    <string name="grux_rmb">Grux performs a high damage, double bladed attack that applies Bleed to enemies hit.</string>
+    <string name="grux_q">Grux smashes the ground with both hammer blades and drags enemies to himself.</string>
+    <string name="grux_e">Grux charges forward, damaging any enemies he runs through.</string>
+    <string name="grux_r">Grux clangs his hammers together with such force that it briefly stuns all nearby enemies. While the hammers are ringing he gains additional movement speed and his Basic Attacks have increased damage and apply Bleed.</string>
+    <string name="grux_name_passive">Passive:ONLY THE STRONG SURVIVE</string>
+    <string name="grux_name_lmb">LMB:CHOP</string>
+    <string name="grux_name_rmb">RMB:DOUBLE PAIN</string>
+    <string name="grux_name_q">Q:SMASH and GRAB</string>
+    <string name="grux_name_e">E:STAMPEDE</string>
+    <string name="grux_name_r">R:WARLORD’S CHALLENGE</string>
+
+
+
+    <string name="twin_blast_passive">Whenever Twinblast hits an enemy with Grenade or Nitro, they are Marked for a few seconds. Marked enemies will take increased damage from Twinblast.</string>
+    <string name="twin_blast_lmb">Twinblast fires shots from his blasters, alternating hands with each shot when the button is held.</string>
+    <string name="twin_blast_rmb">Twinblast dives in his direction of motion.</string>
+    <string name="twin_blast_q">Passive: Twinblast has increased attack speed. Active: Activating Nitro increases Twinblasts attack speed bonus for a short period of time.</string>
+    <string name="twin_blast_e">Twinblast fires a grenade to a target location. After a short delay the grenade explodes dealing damage and slowing enemies.</string>
+    <string name="twin_blast_r">Twinblasts guns transform into cannons, which auto fire rocket salvos for a short time causing bonus damage and piercing through enemy minions.</string>
+    <string name="twin_blast_name_passive">Passive:ON A ROLL</string>
+    <string name="twin_blast_name_lmb">LMB:DOUBLESHOT</string>
+    <string name="twin_blast_name_rmb">RMB:ROCKET DASH</string>
+    <string name="twin_blast_name_q">Q:NITRO</string>
+    <string name="twin_blast_name_e">E:GRENADE!</string>
+    <string name="twin_blast_name_r">R:BARRAGE</string>
+
+
+    <string name="sevarog_passive">Sevarog gains soul stacks that increases his maximum health when he kills an enemy with Siphon. Sevarog has four transformations that make him bigger and more imposing as he reaches different stack number plateaus.</string>
+    <string name="sevarog_lmb">Sevarog swings his hammer in a medium damage, melee attack.</string>
+    <string name="sevarog_rmb">Sevarog rushes forward with a short-distance dash, gliding through any enemies in his path.</string>
+    <string name="sevarog_q">Passive: When Sevarog kills an enemy with this ability, he gains soul stacks. Siphon gains bonus damage for each soul Stack plateau he reaches. Active: Sevarog slams his hammer on the ground, dealing damage in front of him. Killing an enemy with this attack will grant a number of soul stacks.</string>
+    <string name="sevarog_e">Sevarog targets an area on the ground that roots and damages opponents. After the root ends, enemies will be slowed for a short period.</string>
+    <string name="sevarog_r">Sevarog makes one mighty sweep with his hammer. Enemy heroes are damaged and knocked back a great distance. Enemy minions are obliterated. Colossal Blow gains bonus damage for each Soul Tap plateau he reaches.</string>
+    <string name="sevarog_name_passive">Passive:SOUL TAP</string>
+    <string name="sevarog_name_lmb">LMB:HAMMER</string>
+    <string name="sevarog_name_rmb">RMB:PHANTOM RUSH</string>
+    <string name="sevarog_name_q">Q:SIPHON</string>
+    <string name="sevarog_name_e">E:SUBJUGATE</string>
+    <string name="sevarog_name_r">R:COLOSSAL BLOW</string>
+
+
+</resources>

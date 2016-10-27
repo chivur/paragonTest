@@ -1,0 +1,20 @@
+Affinity	Affinity.Fury Affinity.Order
+MaxHealth	2178
+HealthRegenRate	4.356
+EnergyArmor	24.4
+PhysicalArmor	24.4
+AttackSpeedRating	119.6
+CriticalDamageBonus	2
+MaxMoveSpeed	420
+VisionRadius	5000
+
+
+
+
+
+
+
+
+
+
+

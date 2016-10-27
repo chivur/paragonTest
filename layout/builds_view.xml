@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tv_actives"
+        android:text="Actives [1-4]                          Passives[5-6]"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <ImageButton
+        android:id="@+id/item1"
+        android:maxHeight="80dp"
+        android:maxWidth="80dp"
+        android:adjustViewBounds="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/img_btn_1"
+        android:layout_below="@+id/tv_actives"
+         />
+
+    <ImageButton
+        android:id="@+id/item2"
+        android:layout_below="@id/tv_actives"
+        android:layout_toRightOf="@id/item1"
+        android:src="@drawable/img_btn_2"
+        android:maxHeight="80dp"
+        android:maxWidth="80dp"
+        android:adjustViewBounds="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <ImageButton
+        android:id="@+id/item3"
+        android:layout_below="@id/item1"
+        android:src="@drawable/img_btn_3"
+        android:maxHeight="80dp"
+        android:maxWidth="80dp"
+        android:adjustViewBounds="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <ImageButton
+        android:id="@+id/item4"
+        android:src="@drawable/img_btn_4"
+        android:maxHeight="80dp"
+        android:maxWidth="80dp"
+        android:adjustViewBounds="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/item2"
+        android:layout_toStartOf="@+id/item6" />
+
+    <ImageButton
+        android:id="@+id/item5"
+        android:src="@drawable/img_btn_5"
+        android:maxHeight="80dp"
+        android:maxWidth="80dp"
+        android:adjustViewBounds="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/item2"
+        android:layout_toEndOf="@+id/item2" />
+
+    <ImageButton
+        android:id="@+id/item6"
+        android:src="@drawable/img_btn_6"
+        android:maxHeight="80dp"
+        android:maxWidth="80dp"
+        android:adjustViewBounds="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/item5"
+        android:layout_toEndOf="@+id/item2" />
+
+
+
+</RelativeLayout>
